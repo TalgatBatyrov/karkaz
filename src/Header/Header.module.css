@@ -1,0 +1,19 @@
+.icon {
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+
+}
+
+
+.Header {
+    grid-area: h;
+    display: grid;
+    grid-template-columns: 1fr 15fr;
+    background-color: #22577A;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 10px;
+
+}

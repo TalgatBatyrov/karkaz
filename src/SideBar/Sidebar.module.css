@@ -1,0 +1,13 @@
+.Sidebar {
+    grid-area: s;
+    background-color: #38A3A5;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+
+#imgsize {
+    width: 500px;
+    height: 265px;
+}

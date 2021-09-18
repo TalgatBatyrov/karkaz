@@ -1,0 +1,18 @@
+.ContentWrapper {
+    padding: 10px;
+    grid-area: c;
+    background-color: #57CC99;
+    border-radius: 10px;
+}
+
+.icon {
+    padding: 10px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #38d838;
+    margin-top: 10px;
+    margin-right: 20px;
+    transition: 2s;
+
+}

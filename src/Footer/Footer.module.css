@@ -1,0 +1,40 @@
+.footer {
+    background-color: #7EB5A6;
+    grid-area: f;
+    margin: 10px 0px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#big {
+    font-size: 25px;
+}
+
+.icon {
+    padding: 10px;
+    border-radius: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #ffffff38;
+    margin-top: 10px;
+    margin-right: 20px;
+    transition: 2s;
+
+
+}
+
+.icon:hover {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #b6622a;
+    border-radius: 40px;
+    /* background-position: right; */
+
+
+    transition: 2s;
+
+}
+
+.end {
+    text-align: center;
+}
